@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning LUA, HTML5, CSS3,  JS
-- 📫 How to reach me .Hexus#2915 (Discord)
+- 🌱 I’m currently learning LUA, HTML5, CSS3, JS, Roblox Studio, SQL, Unity
+- 📫 How to reach me .Hexus (Discord)
 - 🌴 Freelancer
 - ✨ Fivem dev | Early Roblox dev
 <!---
